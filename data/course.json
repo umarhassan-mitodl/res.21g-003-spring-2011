@@ -1,0 +1,44 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Chinese"
+    ]
+  ],
+  "legacy_uid": "67d6713b-f393-736c-6a9f-425cf6b6cd0a",
+  "instructors": {
+    "content": [
+      "b9948b5b-bab1-40e6-c210-e58ba753f54c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1d623a64-e38a-e093-a62c-4e0816133435",
+    "website": "res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011"
+  },
+  "course_title": "Learning Chinese: A Foundation Course in Mandarin (\u6c49\u8bed\u57fa\u7840\u6559\u6750)",
+  "hide_download": false,
+  "course_description": "This online textbook represents materials that were used in the first four semesters (two years) of the Mandarin program at MIT. They eventually formed the basis of a print textbook of the same name, published by Yale University Press. The OCW course materials were extensively revised, and at times reordered, before publication, but the general principles of the original remain: to provide a comprehensive resource for the foundation levels of the Chinese language that separates the learning of oral skills from literary (the former being transcribed in pinyin, and the latter in characters). This resource contains the complete online version of the text and accompanying audio recordings.",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.21G-003",
+  "course_image_thumbnail": {
+    "content": "436332ab-0538-3251-0bc7-9782ac6d0488",
+    "website": "res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011"
+  },
+  "learning_resource_types": [
+    "Open Textbooks"
+  ],
+  "site_uid": "3125a07f-1796-4907-a533-2f5358bfcaae",
+  "site_short_id": "res.21g-003-spring-2011",
+  "site_url_path": "courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011",
+  "title": "Course Metadata"
+}

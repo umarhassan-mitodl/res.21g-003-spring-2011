@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 0e83046e-ea6e-149e-5e2f-53958a6ed9f7
+  name: Online Textbook
+  pageRef: /pages/online-textbook/
+  weight: 10
+- identifier: 0f2de959-80ac-28fe-623e-02e282a4630f
+  name: Part I
+  pageRef: /pages/online-textbook/part-i-introduction-units-1-4-character-lessons-1-3
+  parent: 0e83046e-ea6e-149e-5e2f-53958a6ed9f7
+  weight: 20
+- identifier: 7179d758-d0e8-355c-3a41-4a4159db68ff
+  name: Part II
+  pageRef: /pages/online-textbook/part-ii-units-5-7-character-lessons-4-6
+  parent: 0e83046e-ea6e-149e-5e2f-53958a6ed9f7
+  weight: 30
+- identifier: 5e882777-1f7c-52c8-5070-a26ba4701a68
+  name: Part III
+  pageRef: /pages/online-textbook/part-iii-units-8-10-character-lesson-7
+  parent: 0e83046e-ea6e-149e-5e2f-53958a6ed9f7
+  weight: 40
+- identifier: 684a679b-2f1e-da85-3506-eba9dbf2544c
+  name: Part IV
+  pageRef: /pages/online-textbook/part-iv-units-11-12-menu-supplement
+  parent: 0e83046e-ea6e-149e-5e2f-53958a6ed9f7
+  weight: 50
