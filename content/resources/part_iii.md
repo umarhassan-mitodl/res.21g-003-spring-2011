@@ -4,6 +4,8 @@ description: 'This zip file contains: 38 mp3 files and 1 pdf file. '
 file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/f4a0654cfb4938d4e9b32b6b1cb9be59_part_III.zip
 file_size: 41743758
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

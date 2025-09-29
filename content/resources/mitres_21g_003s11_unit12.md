@@ -4,6 +4,8 @@ description: This resource contains the information regarding unit 12.
 file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/ba5b510d36377261339bda90e19a462d_MITRES_21G_003S11_unit12.pdf
 file_size: 756894
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains a table listing the contents and files related
   to each chapter in Part III.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Open Textbooks
 ocw_type: SupplementalResourceSection
