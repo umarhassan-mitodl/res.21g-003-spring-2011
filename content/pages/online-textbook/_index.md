@@ -11,7 +11,7 @@ uid: 0e83046e-ea6e-149e-5e2f-53958a6ed9f7
 ---
 This online textbook represents materials that were used in the first four semesters (two years) of the Mandarin program at MIT. They eventually formed the basis of a print textbook of the same name, published by Yale University Press (elementary level available 2011, intermediate level due late 2011 or early 2012). Information about the Yale edition, plus online materials that could supplement the OCW material with some allowances. The Yale website also includes extensive audio-clips (numbering over 40 by July 2011, up through Unit 4), which cover much of the same ground as the OCW version.
 
-Wheatley, Julian K. [*Learning Chinese: A Foundation Course in Mandarin. (汉语基础教材)*](http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300141177) New Haven, CT: Yale University Press, 2010. ISBN: 9780300141177.
+Wheatley, Julian K. {{% resource_link "dbb110b6-483b-4262-9704-7001e8d558f3" "*Learning Chinese: A Foundation Course in Mandarin. (汉语基础教材)*" %}} New Haven, CT: Yale University Press, 2010. ISBN: 9780300141177.
 
 The OCW course materials were extensively revised, and at times reordered, before publication, but the general principles of the original remain: to provide a comprehensive resource for the foundation levels of Chinese language that separates the learning of oral skills from literary (the former being transcribed in pinyin, and the latter in characters). This resource contains the complete online version of the text in four parts. Audio recordings courtesy of Julian K. Wheatley, Tong Chen, Jin Zhang, and Min-Min Liang accompany the text, used with their permission.
 
