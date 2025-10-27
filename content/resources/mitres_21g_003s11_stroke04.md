@@ -5,8 +5,6 @@ description: This resource contains the information regarding character stroke o
 file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/e094f8304878f1a7f838c1c01d80ba99_MITRES_21G_003S11_stroke04.pdf
 file_size: 221682
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
